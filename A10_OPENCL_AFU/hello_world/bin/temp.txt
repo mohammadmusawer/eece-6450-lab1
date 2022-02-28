@@ -1,0 +1,1 @@
+had to remove bin/ content because of the size and it could not be pushed to github.
